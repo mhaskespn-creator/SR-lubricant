@@ -1,0 +1,6 @@
+{
+  "name": "Shobha SR Lubricant",
+  "description": "Premium, futuristic vehicle lubricants and engine oils showcase and smart recommendation advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
